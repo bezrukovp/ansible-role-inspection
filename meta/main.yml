@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: bezrukovp
+  description: Inspection role of Ubuntu server
+  company:
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+   - name: Ubuntu
+  versions:
+   - all
+  galaxy_tags:
+   - system
+dependencies: []
